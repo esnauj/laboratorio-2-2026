@@ -11,8 +11,8 @@
 
 # Integrantes del Grupo
 
-- Estudiante 1 (Legajo 1)
-- Estudiante 2 (Legajo 2)
+- Estudiante 1 Juan Segundo E - 31
+- Estudiante 2 Ignacio H - 15
 
 ---
 
