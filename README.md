@@ -13,6 +13,7 @@
 
 - Estudiante 1 Juan Segundo E - 31
 - Estudiante 2 Ignacio H - 15
+- Estudiante 3 Facundo S - 11
 
 ---
 
